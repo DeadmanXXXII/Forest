@@ -1,8 +1,6 @@
 # Forest
 Rigetti computing quantum CLI
 
-Certainly! Here is an in-depth and comprehensive list of Forest CLI commands, including usage examples and advanced techniques.
-
 ### **1. Forest Installation**
 
 Ensure you have Forest installed:
